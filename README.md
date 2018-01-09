@@ -9,18 +9,18 @@ For more information, click [here](https://github.com/ChrisKnott/Eel) (repositor
 
 # Installation
 
-Install MongoDB:
+### Install MongoDB:
 
 [MongoDB Installation](https://docs.mongodb.com/manual/installation/?jmp=footer&_ga=2.168173224.803608867.1506133999-480232443.1506015152)
 
-Clone repository:
+### Clone repository:
 
 ```bash
 $ git clone https://github.com/ViniciusRomano/eel-example.git
 $ cd eel-example
 ```
 
-Install requirements:
+### Install requirements:
 
 ```bash
 $ pip install -r requirements.txt
